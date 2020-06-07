@@ -39,6 +39,12 @@ img.profile-pic {
 	border-radius: 50%;
 }
 
+img.logo {
+	height: 30%;
+	width: 30%;
+	object-fit: cover;
+}
+
 .container {
 	margin: 0 auto;
 	position: relative;
@@ -185,11 +191,21 @@ img.profile-pic {
     height: 60%;
     width: 60%;
   }
+  
+  img.logo {
+    height: 60%;
+    width: 60%;
+  }
 }
 
 @media screen and (max-width: 480px) {
   img.profile-pic {
     height: 80%;
     width: 80%;
+  }
+  
+  img.logo {
+    height: 60%;
+    width: 60%;
   }
 }
