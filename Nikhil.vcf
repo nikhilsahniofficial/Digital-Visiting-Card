@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Sahni;Nikhil;;;
+FN: Nikhil Sahni 
+ORG:Trendgineer;
+TITLE:CEO
+EMAIL;type=INTERNET;type=WORK;type=pref:nikhil@trendgineerdigital.com
+TEL;type=WORK;type=VOICE:+91 7977 11 2190
+item1.ADR;type=WORK;type=pref:;;307\, A Wing\, 3rd Floor\, Hamilton\nHiranandani Estate\, Thane (W);;;400607;Mumbai
+item1.X-ABADR:sg
+item2.URL;type=pref:www.trendgineerdigital.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
