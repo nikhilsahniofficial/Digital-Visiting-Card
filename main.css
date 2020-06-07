@@ -143,24 +143,24 @@ img.profile-pic {
 }
 
 .text-name {
-    font-family: 'Lato', sans-serif;
-    font-weight: 400;
-    color: #333333;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    color: #000000;
     font-size: 20px;
 }
 
 .text-title-company {
-    font-family: 'Lato', sans-serif;
-    font-weight: 200;
-    color: #333333;
-    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    color: #000000;
+    font-size: 15px;
 }
 
 .text-detail {
-    font-family: 'Lato', sans-serif;
-    font-weight: 300;
-    color: #575757;
-    font-size: 12px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #000000;
+    font-size: 15px;
 }
 
 .bottom {
