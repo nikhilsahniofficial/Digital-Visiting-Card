@@ -1,1 +1,1 @@
-# digital-namecard
+# digital-visiting-card
